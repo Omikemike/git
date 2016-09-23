@@ -1,0 +1,1 @@
+".\bin\mecab.exe" "SORC.txt" -r ".\bin\mecabrc" -d ".\dic\ipadic" -o "DEST.txt"
